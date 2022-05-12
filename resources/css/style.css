@@ -1,0 +1,27 @@
+:root {
+    --acc-color: #C4DAD0;
+    --secondary-color: #54647F;
+}
+
+.bg-acc-cs {
+    background-color: var(--acc-color);
+}
+.bg-sec-cs {
+    background-color: var(--secondary-color);
+}
+
+.acc-col-cs{
+    color: var(--acc-color);
+}
+
+.sec-col-cs{
+    color: var(--secondary-color);
+}
+
+body {
+    height: 100vh;
+}
+
+.vh-100{
+    height: 100vh;
+}
